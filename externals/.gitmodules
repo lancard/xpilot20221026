@@ -1,0 +1,14 @@
+[submodule "boost"]
+	path = boost
+	url = https://github.com/xpilot-project/boost-headers-only.git
+[submodule "msgpack-c"]
+	path = msgpack-c
+	url = https://github.com/msgpack/msgpack-c.git
+	branch = cpp-4.1.2
+[submodule "json"]
+	path = json
+	url = https://github.com/nlohmann/json.git
+	branch = v3.11.2
+[submodule "qtpromise"]
+	path = qtpromise
+	url = https://github.com/simonbrunel/qtpromise.git
